@@ -1,0 +1,10 @@
+﻿  main.c
+  main2.c
+c:\users\pooki\documents\tau\year 3\semester a\מבנה המחשב\פרוייקט isa\isa_project\sim\sim\main2.c(18): warning C4101: 'ch': unreferenced local variable
+  sim_funcs.c
+c:\users\pooki\documents\tau\year 3\semester a\מבנה המחשב\פרוייקט isa\isa_project\sim\sim\sim_funcs.c(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pooki\documents\tau\year 3\semester a\מבנה המחשב\פרוייקט isa\isa_project\sim\sim\sim_funcs.c(113): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pooki\documents\tau\year 3\semester a\מבנה המחשב\פרוייקט isa\isa_project\sim\sim\sim_funcs.c(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+main2.obj : error LNK2005: _main already defined in main.obj
+C:\Users\POOKI\Documents\TAU\Year 3\Semester A\מבנה המחשב\פרוייקט ISA\ISA_Project\sim\sim\Debug\sim.exe : fatal error LNK1169: one or more multiply defined symbols found
